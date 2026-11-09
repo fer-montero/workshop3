@@ -1,0 +1,4 @@
+,MAE,RMSE,R2
+Solo gdp + health,0.523,0.635,0.724
+Seis sin generosity,0.434,0.569,0.778
+Seis variables,0.432,0.562,0.784

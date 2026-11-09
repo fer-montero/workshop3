@@ -1,0 +1,31 @@
+,2015,2016,2017,2018,2019
+Country,object,object,object,-,-
+Country or region,-,-,-,object,object
+Dystopia Residual,float64,float64,-,-,-
+Dystopia.Residual,-,-,float64,-,-
+Economy (GDP per Capita),float64,float64,-,-,-
+Economy..GDP.per.Capita.,-,-,float64,-,-
+Family,float64,float64,float64,-,-
+Freedom,float64,float64,float64,-,-
+Freedom to make life choices,-,-,-,float64,float64
+GDP per capita,-,-,-,float64,float64
+Generosity,float64,float64,float64,float64,float64
+Happiness Rank,int64,int64,-,-,-
+Happiness Score,float64,float64,-,-,-
+Happiness.Rank,-,-,int64,-,-
+Happiness.Score,-,-,float64,-,-
+Health (Life Expectancy),float64,float64,-,-,-
+Health..Life.Expectancy.,-,-,float64,-,-
+Healthy life expectancy,-,-,-,float64,float64
+Lower Confidence Interval,-,float64,-,-,-
+Overall rank,-,-,-,int64,int64
+Perceptions of corruption,-,-,-,float64,float64
+Region,object,object,-,-,-
+Score,-,-,-,float64,float64
+Social support,-,-,-,float64,float64
+Standard Error,float64,-,-,-,-
+Trust (Government Corruption),float64,float64,-,-,-
+Trust..Government.Corruption.,-,-,float64,-,-
+Upper Confidence Interval,-,float64,-,-,-
+Whisker.high,-,-,float64,-,-
+Whisker.low,-,-,float64,-,-

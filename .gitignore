@@ -1,0 +1,13 @@
+# Entorno virtual y cachés
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos de editor y del sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Variables de entorno locales
+.env

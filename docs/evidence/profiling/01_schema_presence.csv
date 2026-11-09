@@ -1,0 +1,31 @@
+,2015,2016,2017,2018,2019
+Country,X,X,X,-,-
+Country or region,-,-,-,X,X
+Dystopia Residual,X,X,-,-,-
+Dystopia.Residual,-,-,X,-,-
+Economy (GDP per Capita),X,X,-,-,-
+Economy..GDP.per.Capita.,-,-,X,-,-
+Family,X,X,X,-,-
+Freedom,X,X,X,-,-
+Freedom to make life choices,-,-,-,X,X
+GDP per capita,-,-,-,X,X
+Generosity,X,X,X,X,X
+Happiness Rank,X,X,-,-,-
+Happiness Score,X,X,-,-,-
+Happiness.Rank,-,-,X,-,-
+Happiness.Score,-,-,X,-,-
+Health (Life Expectancy),X,X,-,-,-
+Health..Life.Expectancy.,-,-,X,-,-
+Healthy life expectancy,-,-,-,X,X
+Lower Confidence Interval,-,X,-,-,-
+Overall rank,-,-,-,X,X
+Perceptions of corruption,-,-,-,X,X
+Region,X,X,-,-,-
+Score,-,-,-,X,X
+Social support,-,-,-,X,X
+Standard Error,X,-,-,-,-
+Trust (Government Corruption),X,X,-,-,-
+Trust..Government.Corruption.,-,-,X,-,-
+Upper Confidence Interval,-,X,-,-,-
+Whisker.high,-,-,X,-,-
+Whisker.low,-,-,X,-,-
